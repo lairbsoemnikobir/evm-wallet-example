@@ -1,6 +1,6 @@
 {
   "name": "evm-wallet-example",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,17 @@
   },
   "repository": {
     "type": "git",
-      "url": "https://github.com/lairbsoemnikobir/evm-wallet-example"
-  },    
+    "url": "https://github.com/lairbsoemnikobir/evm-wallet-example"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ethers": "^6.11.1"
+    "ethers": "^6.11.1",
+    "evm-query-example": "^1.1.0",
+    "evm-wallet-example": "^1.0.0",
+    "evm-wallet-example-2": "^1.0.1",
+    "ierc-miner-js": "^1.1.0",
+    "tea-demo-one": "^1.0.1"
   }
 }
